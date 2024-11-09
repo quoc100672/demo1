@@ -1,0 +1,25 @@
+{
+  "name": "demo1",
+  "packageManager": "yarn@4.4.1",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "debug": "^4.3.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.2",
+    "morgan": "^1.10.0"
+  },
+  "description": "nothing in this project,just test.#\u0000 \u0000l\u0000a\u0000b\u00002\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "tailwindcss": "^3.4.14"
+  }
+}
